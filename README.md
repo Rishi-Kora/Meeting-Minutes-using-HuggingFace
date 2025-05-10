@@ -8,7 +8,7 @@ This project uses a real-world example (Denver City Council meeting) to demonstr
 ## 📁 Folder Structure
 
 ```bash
-.
+
 ├── meeting_minutes_product_using_HF.ipynb  
 ├── README.md                               
                                  
