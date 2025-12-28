@@ -1,7 +1,7 @@
 # Meeting-Minutes-using-HuggingFace
 Generate professional meeting minutes from audio recordings using state-of-the-art models from [Hugging Face Transformers](https://huggingface.co/).
 
-## 🚀 Project Overview
+## Project Overview
 
 This project uses a real-world example (Denver City Council meeting) to demonstrate how to transcribe and summarize audio into concise meeting minutes. It combines speech-to-text and natural language summarization using Hugging Face models.
 
@@ -26,13 +26,13 @@ To run this notebook in Google Colab:
 !pip install -q requests torch bitsandbytes transformers sentencepiece accelerate openai httpx==0.27.2
 ```
 
-## 🧠 Key Features
+## Key Features
 
-- 🎙️ Audio transcription using Whisper or similar speech-to-text models
-- ✨ Summarization using transformer-based models
-- 📄 Generates clean, readable meeting minutes
+- Audio transcription using Whisper or similar speech-to-text models
+- Summarization using transformer-based models
+- Generates clean, readable meeting minutes
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Hugging Face Transformers
@@ -40,16 +40,16 @@ To run this notebook in Google Colab:
 - SentencePiece
 - OpenAI / HTTPX for API integration
 
-## 📌 Example Use Cases
+## Example Use Cases
 
 - Internal meeting documentation
 - Public governance meetings
 - Academic discussions or research meetings
 
-## 📃 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 - [Hugging Face](https://huggingface.co/) for pre-trained models
