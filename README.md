@@ -5,7 +5,7 @@ Generate professional meeting minutes from audio recordings using state-of-the-a
 
 This project uses a real-world example (Denver City Council meeting) to demonstrate how to transcribe and summarize audio into concise meeting minutes. It combines speech-to-text and natural language summarization using Hugging Face models.
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```bash
 
@@ -14,7 +14,7 @@ This project uses a real-world example (Denver City Council meeting) to demonstr
                                  
 ```
 
-## 🔧 Setup Instructions
+## Setup Instructions
 
 To run this notebook in Google Colab:
 
