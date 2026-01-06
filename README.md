@@ -40,6 +40,11 @@ To run this notebook in Google Colab:
 - SentencePiece
 - OpenAI / HTTPX for API integration
 
+## Workflow Diagram
+
+<img width="767" height="645" alt="image" src="https://github.com/user-attachments/assets/76166d62-6e67-4a8e-88be-b0702de55c83" />
+
+
 ## Example Use Cases
 
 - Internal meeting documentation
